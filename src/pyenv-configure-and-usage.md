@@ -1,5 +1,3 @@
-<!-- Jetson Orin Nano Python 更新教學 | 未來科技感主題 -->
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Jetson%20Orin%20Nano-00ffe7?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson Orin Nano" />
@@ -15,12 +13,6 @@
 </div>
 
 ---
-
-## 一指令配置
-```bash
-sudo apt update && sudo apt instal wget
-wget "https://raw.githubusercontent.com/willy-hack/Jetson-Orin-Nano/refs/tags/1.0.0/up_py.sh" && sudo chmod +x up_py.sh && ./up_py.sh
-```
 
 ## 🛠️ 安裝 Pyenv
 

@@ -1,30 +1,11 @@
-<!-- 未來科技感主題設計 -->
-
 <div align="center">
+  <img src="./src/img/JetsonOrinNano.png" alt="Jetson Orin Nano" width="320" />
 
-<img src="./imager/JetsonOrinNano.png" alt="Jetson Orin Nano" width="320" />
-
-<h1>
-  <img src="https://img.shields.io/badge/Jetson%20Orin%20Nano-00ffe7?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson Orin Nano" />
-</h1>
-
-<p>
-  <b>🚀 讓你的 Jetson Orin Nano 進入未來世界！</b>
-</p>
-
+  # NVIDIA Jetson Orin Nano相關資源
 </div>
+
+建立此倉庫是為了解決與補足 **Jetson Orin Nano** 的不足之處，例如: 預設 Python 版本只有3.7、安裝 BNO055 Gyro Sensor 工具與程式庫等...
+
+除此之外本倉庫提供了很多自動化腳本，如果覺得過程太過繁瑣可以使用本倉庫放在每一個章節開頭的一鍵配置指令，若是有興趣也可以下載來進行研究改編成自己的自動化腳本。
 
 ---
-
-<div align=center>
-  <table>
-    <tr align=center>
-      <td width=250><a href="./src/upda-python/README.md"><img src="https://img.shields.io/badge/更新%20Python%20版本-0ff?style=for-the-badge&logo=python&logoColor=white" /></a></td>
-      <td width=250><a href="./src/download-code-rely/README.md"><img src="https://img.shields.io/badge/安裝未來工程程序的依賴-00ffe7?style=for-the-badge&logo=github&logoColor=white" /></a></td>
-      <td width=250><a href="./src/install-fcitx/README.md"><img src="https://img.shields.io/badge/安裝中文輸入法(新酷音)-2c5364?style=for-the-badge&logo=ubuntu&logoColor=white" /></a></td>
-    </tr>
-    <tr align=center>
-      <td width=250><a href="./src/build_and_install_opencv/README.md"><img src="https://img.shields.io/badge/編譯並安裝含有Cuda的Opencv-0ff?style=for-the-badge&logo=opencv&logoColor=white" /></a></td>
-    </tr>
-  </table>
-</div>
