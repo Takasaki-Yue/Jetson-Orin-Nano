@@ -1,15 +1,5 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/Jetson%20Orin%20Nano-00ffe7?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson Orin Nano" />
-<img src="https://img.shields.io/badge/Python-3.11.7-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-
-<h1>🚀 Python 更新教學</h1>
-<p><b>讓你的 Jetson Orin Nano 擁有最新的 Python 能力！</b></p>
-
-<a href="https://hackmd.io/@spyua/rydFvA0W3">
-  <img src="https://img.shields.io/badge/詳細圖文教學-HackMD-00ffe7?style=for-the-badge&logo=hackmd&logoColor=white" alt="HackMD 教學連結" />
-</a>
-
 </div>
 
 ---
@@ -77,3 +67,7 @@ pyenv --version
 # 確認Python版本是否有誤
 python --version
 ```
+
+---
+
+本章節是參考 __HackMD__ 的 __YU-SHIH-PENG__ 用戶撰寫的 __[Pyenv安裝設置](https://hackmd.io/@spyua/rydFvA0W3)__ 教學
