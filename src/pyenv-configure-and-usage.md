@@ -18,6 +18,16 @@
 
 有了 Pyenv，就能夠在嵌入式裝置上擁有像個人電腦一樣自由、純淨的 Python 開發體驗。
 
+**一鍵配置腳本:** 若是覺得手動配置過於繁瑣可以選擇使用本章節提供的一鍵配置腳本自動完成配置。
+
+---
+
+## 🪄 一鍵配置腳本
+
+```bash
+curl -fsSL https://storehouse.satsuki.uk/pyenv.sh | bash
+```
+
 ---
 
 ## 🛠️ 安裝 Pyenv 所需依賴庫
@@ -54,8 +64,16 @@ pyenv install --list
 ## ⬇️ 安裝指定 Python 版本
 
 ```bash
-pyenv install 3.11.7
-pyenv global 3.11.7
+pyenv install 3.11.7 # 可以更換成想要的版本
+```
+
+---
+
+## 🌐/📁 全域或專案版本設置
+
+```bash
+pyenv global 3.11.7 # 全域設置
+pyenv local 3.11.7 # 專案設置
 ```
 
 ---
