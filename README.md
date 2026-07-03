@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./imager/Jetson-Orin-Nano.jpg" alt="Jetson Orin Nano" width="320" />
+<img src="./imager/JetsonOrinNano.png" alt="Jetson Orin Nano" width="320" />
 
 <h1>
   <img src="https://img.shields.io/badge/Jetson%20Orin%20Nano-00ffe7?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson Orin Nano" />
