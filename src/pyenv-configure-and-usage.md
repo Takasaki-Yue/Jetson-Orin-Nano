@@ -64,7 +64,7 @@ pyenv install --list
 ## ⬇️ 安裝指定 Python 版本
 
 ```bash
-pyenv install 3.11.7 # 可以更換成想要的版本
+MAKEFLAGS="-j4" pyenv install 3.11.7 # 可以更換成想要的版本
 ```
 
 ---
