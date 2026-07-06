@@ -30,7 +30,7 @@ curl -fsSL https://storehouse.satsuki.uk/pyenv.sh | bash
 
 ---
 
-## 🛠️ 安裝 Pyenv 所需依賴庫
+## 📦 安裝 Pyenv 所需依賴庫
 
 ```bash
 sudo apt update

@@ -10,3 +10,15 @@
 
 ---
 
+<details>
+<summary>🐍 Pyenv 安裝配置與使用</summary>
+<br>
+
+- [🪄 一鍵配置腳本](./src/pyenv-configure-and-usage.md#-pyenv-安裝配置與使用)
+- [📦 安裝 Pyenv 所需依賴庫](./src//pyenv-configure-and-usage.md#️-安裝-pyenv-所需依賴庫)
+- [⚙️ 安裝與配置 Pyenv 工具](./src/pyenv-configure-and-usage.md#️-安裝與配置-pyenv-工具)
+- [🔎 查看可安裝的 Python 版本](./src/pyenv-configure-and-usage.md#-查看可安裝的-python-版本)
+- [⬇️ 安裝指定 Python 版本](./src/pyenv-configure-and-usage.md#️-安裝指定-python-版本)
+- [🌐/📁 全域或專案版本設置](./src/pyenv-configure-and-usage.md#-全域或專案版本設置)
+- [✅ 驗證結果](./src/pyenv-configure-and-usage.md#-驗證結果)
+</details>
